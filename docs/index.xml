@@ -5,6 +5,25 @@
     <link>https://katzkawai.github.io/nikki2022/</link>
     <description>Recent content on わたしのサイト</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-JP</language><atom:link href="https://katzkawai.github.io/nikki2022/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 24 Apr 2022 09:42:51 +0000</lastBuildDate><atom:link href="https://katzkawai.github.io/nikki2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://katzkawai.github.io/nikki2022/posts/my-first-post/</link>
+      <pubDate>Sun, 24 Apr 2022 09:42:51 +0000</pubDate>
+      
+      <guid>https://katzkawai.github.io/nikki2022/posts/my-first-post/</guid>
+      <description>はじめてのブログ記事</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://katzkawai.github.io/nikki2022/about/</link>
+      <pubDate>Sun, 24 Apr 2022 09:42:24 +0000</pubDate>
+      
+      <guid>https://katzkawai.github.io/nikki2022/about/</guid>
+      <description>日本語大丈夫かな。</description>
+    </item>
+    
   </channel>
 </rss>
