@@ -1,4 +1,4 @@
-baseURL = 'https://katzkawai.github.io/nikki2022/'
+baseURL = 'https://katzkawai.org/nikki2022/'
 languageCode = 'ja-JP'
 title = 'わたしのサイト'
 theme = "ananke"
